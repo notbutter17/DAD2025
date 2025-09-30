@@ -2,12 +2,12 @@ server:
   port: 7569
 spring:
   application:
-    name: ms-pais
+    name: ms-pagos
 
   datasource:
     url: jdbc:mysql://localhost:3309/pais
     username: root
-    password: 124578369scar@
+    password: 
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
