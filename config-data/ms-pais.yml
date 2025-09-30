@@ -2,7 +2,7 @@ server:
   port: 7569
 spring:
   application:
-    name: ms-pagos
+    name: ms-pais
 
   datasource:
     url: jdbc:mysql://localhost:3309/pais
